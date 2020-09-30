@@ -5,7 +5,7 @@ edmontonpy/settings/local_settings.py
 # Byte-compiled / optimized / DLL files
 *.py[cod]
 __pycache__/
-dist/
+dist/hello world Hey
 .mypy_cache
 
 # Distribution / packaging
